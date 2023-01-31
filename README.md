@@ -11,5 +11,11 @@ My Favorite Players in **Royal Challengers Bengaluru** are:
 2. Finn Allen
 3. Rajat Patidar
 
+____
+## Other teams list
+* Sun rises
+* Deccan chargers
+* chennai super kings
+
 
 
