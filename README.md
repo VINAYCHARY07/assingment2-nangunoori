@@ -19,3 +19,17 @@ ____
 
 [click here to know about me](https://github.com/VINAYCHARY07/assingment2-nangunoori/blob/main/WhatsApp%20Image%202023-01-31%20at%203.00.34%20PM.jpeg)
 
+___
+# My favourite countries  to travel
+ 
+ Travelling to other countries exposes multiple cultures and diversities.This table contains my favourite countries 
+ 4 to travel:
+ |**Countries**|**Reason**|**No of days**|
+ |-------------|----------|------------|
+ |India        |its has multi cultures and foods|45
+ Italy|it has eiffel tower|10
+Spain|it has royal places and museum|5
+Switzerland|it has beautiful forsets|6
+
+
+ 
