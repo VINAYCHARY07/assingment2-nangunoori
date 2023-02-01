@@ -1,7 +1,7 @@
 # assingment2-nangunoori
 # Nangunoori
 ###### cricket
-**carrom**
+**cricket**
 It is a game particapted with a group **increase** thinking and **stress** relief
 
 ___
