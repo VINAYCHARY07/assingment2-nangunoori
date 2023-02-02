@@ -37,7 +37,7 @@ ___
 2. `"There is nothing better than a friend, unless it's a friend with chocolate."` ---- by **_Linda Grayson_**
 
 ___
-## Sample Sass Code Snippet
+##  Code fencing
 sample relavant question: <https://engineeringinterviewquestions.com/htaccess-interview-questions-answers/#:~:text=300%2B%20%5BLATEST%5D%20Htaccess%20Interview%20Questions%20and%20Answers%201,To%20Redirect%20Http%3A%2F%2F%20To%20Https%3A%2F%2Fwww%3F%20...%20More%20items>
 ```
 # Don't forget to turn on the rewrite engine
